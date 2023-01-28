@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        searchSqrt service = new searchSqrt();
+        SearchSqrt service = new SearchSqrt();
         System.out.println(service.rangeNum(200, 300));
     }
 }
